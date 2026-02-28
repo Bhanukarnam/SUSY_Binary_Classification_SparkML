@@ -1,0 +1,9 @@
+experiment,shuffle_partitions,train_fraction,train_rows,train_time_s,eval_time_s,test_auc
+weak_scaling,200,0.05,139537,17.28,5.39,0.8645
+weak_scaling,200,0.1,279451,13.11,3.11,0.865
+weak_scaling,200,0.15,419801,16.31,3.39,0.8644
+weak_scaling,200,0.2,559876,17.56,2.9,0.8649
+strong_scaling_proxy,50,0.1,279451,12.13,2.69,0.865
+strong_scaling_proxy,100,0.1,279451,11.85,4.36,0.865
+strong_scaling_proxy,200,0.1,279451,14.97,3.01,0.865
+strong_scaling_proxy,400,0.1,279451,12.96,3.02,0.865

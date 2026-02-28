@@ -1,0 +1,2 @@
+model,train_rows,test_rows,train_time_s,test_auc,accuracy,precision,recall,f1,tn,fp,fn,tp
+sklearn_LogisticRegression,200000,100000,0.7,0.863,0.7986,0.8324,0.6707,0.7429,50758,5859,14285,29098
